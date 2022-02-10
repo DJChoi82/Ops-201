@@ -1,5 +1,5 @@
 # Ops-201
-#Ops 201 class through Code Fellows
+
 
 Hello, this repo was created for a class I am taking through Code Fellows. This class is called Ops 201 Foundations of Computer Operations. The files uploaded are scripting challenges done through the course that include Bash and PowerShell scripting. 
 
